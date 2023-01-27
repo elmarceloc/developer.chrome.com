@@ -28,7 +28,7 @@ device][1] for more help.
 
 1.  Open the **Developer Options** screen on your Android. See [Configure On-Device Developer
     Options][2].
-2.  Select **Enable USB Debugging**.
+2.  Select **Enable USB Debugging** or **Enable Wireless Debugging**.
 3.  On your development machine, open Chrome.
 4.  Go to `chrome://inspect#devices`.
 5.  Make sure that the **Discover USB devices** checkbox is enabled.
